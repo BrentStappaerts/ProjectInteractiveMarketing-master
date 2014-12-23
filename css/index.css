@@ -1,0 +1,17 @@
+
+body {
+	margin:0px;
+	padding:0px;
+	background-image: url('../images/index.png');
+}
+
+#game-area {
+	margin:0px;
+	padding:0px;
+}
+
+
+img {
+	margin: auto;
+	
+	}
